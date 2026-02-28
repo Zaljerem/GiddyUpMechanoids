@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>GiddyUpMechanoids</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net48</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>   
+    <PackageReference Include="Krafs.Rimworld.Ref" Version="1.6.*-*" />
+    <PackageReference Include="Lib.Harmony" Version="2.4.2" />	
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="0MultiplayerAPI">
+      <HintPath>..\..\..\..\Users\conse\Desktop\!Reference Assemblies\0MultiplayerAPI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="GiddyUpCore">
+      <HintPath>..\..\..\..\Users\conse\Desktop\!Reference Assemblies\GiddyUpCore.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="WhatTheHack">
+      <HintPath>..\..\..\..\Users\conse\Desktop\!Reference Assemblies\WhatTheHack.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+</Project>

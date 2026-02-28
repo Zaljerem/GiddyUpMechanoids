@@ -1,5 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
+<GUM_ModName>快点！机械人</GUM_ModName>
+
+<GUM_AllowedMechs>允许的机甲：</GUM_AllowedMechs>
+<GUM_DisCarCap>忽略负重容量</GUM_DisCarCap>
+<GUM_DisCarCapText>如果启用，承载能力将不再是安装机甲的限制因素。默认值为假。</GUM_DisCarCapText>
+
   <GU_BME_Tabs_Title>模组设置</GU_BME_Tabs_Title>
   <GU_BME_tab1>修改模组设置..</GU_BME_tab1>
   <GU_BME_MountChance_Title>敌人骑乘机械的几率</GU_BME_MountChance_Title>

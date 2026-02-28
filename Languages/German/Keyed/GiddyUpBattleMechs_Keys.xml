@@ -1,5 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+
+<GUM_ModName>Hopp, hopp! Mechanoiden</GUM_ModName>
+
+<GUM_AllowedMechs>Erlaubte Mechs:</GUM_AllowedMechs>
+<GUM_DisCarCap>Tragfähigkeit ignorieren</GUM_DisCarCap>
+<GUM_DisCarCapText>Wenn aktiviert, ist die Tragfähigkeit kein Faktor mehr für das Besteigen von Mechs. Standardmäßig falsch.</GUM_DisCarCapText>
+
   <GU_BME_Tabs_Title>Mod-Einstellungen</GU_BME_Tabs_Title>
   <GU_BME_tab1>Ändere Mod-Einstellungen..</GU_BME_tab1>
   <GU_BME_BodySizeFilter_Title>Nach Körpergröße sortieren</GU_BME_BodySizeFilter_Title>

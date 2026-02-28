@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
+
+<GUM_ModName>Giddy-Up! Mechanoids</GUM_ModName>
+
+<GUM_AllowedMechs>Allowed Mechs:</GUM_AllowedMechs>
+<GUM_DisCarCap>Disregard Carrying Capacity</GUM_DisCarCap>
+<GUM_DisCarCapText>If enabled, Carrying Capacity is no longer a factor for mounting mechs. Default false.</GUM_DisCarCapText>
 	<GU_BME_Tabs_Title>Mod settings</GU_BME_Tabs_Title>
 	<GU_BME_tab1>Change mod settings..</GU_BME_tab1>
 	<GU_BME_MountChance_Title>Chance enemies mount mechs</GU_BME_MountChance_Title>

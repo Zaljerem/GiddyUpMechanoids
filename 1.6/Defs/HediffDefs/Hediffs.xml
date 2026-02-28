@@ -1,0 +1,18 @@
+  <Defs>
+      <HediffDef>
+		<defName>GU_Mech_GiddyUpModule</defName>
+		<label>Giddy-Up! module installed</label>
+		<description>This mechanoid has been fitted with a Giddy-Up! module, and is rideable.</description>
+		<defaultLabelColor>(0.5, 0.5, 0.9)</defaultLabelColor>
+		<isBad>false</isBad>
+		<modExtensions>
+			<li Class="WhatTheHack.DefModExtension_Hediff">
+				<extraButcherProduct>GU_Mech_GiddyUpModule</extraButcherProduct>
+				<canUninstall>true</canUninstall>				
+				<spawnChance>0.12</spawnChance>
+				<destroyOnDeathChance>0.7</destroyOnDeathChance>
+			</li>
+		</modExtensions>
+	  </HediffDef>  
+  </Defs>
+  

@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+<GUM_ModName>ギディアップ！メカノイド</GUM_ModName>
+
+
+<GUM_AllowedMechs>使用可能なメカ:</GUM_AllowedMechs>
+<GUM_DisCarCap>積載量を無視する</GUM_DisCarCap>
+<GUM_DisCarCapText>有効にすると、搭乗用メカに対して積載能力はもはや影響しなくなります。デフォルトはオフです。</GUM_DisCarCapText>
+
   <GU_BME_Tabs_Title>Mod設定</GU_BME_Tabs_Title>
   <GU_BME_tab1>Mod設定を変更しました。</GU_BME_tab1>
   <GU_BME_MountChance_Title>敵のメカノイド騎乗率</GU_BME_MountChance_Title>
